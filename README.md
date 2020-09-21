@@ -1,4 +1,4 @@
-# Self-driving-robot
+# automated, driving-robot
 
 This robot was a group project made by ryan yee, dan gueco, callum, and Matthew yip. 
 This was created in our first year of engineering.
